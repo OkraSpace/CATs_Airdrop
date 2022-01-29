@@ -1,0 +1,2 @@
+chia_path,fingerprint,wallet_id,amount,fee,batch_size,delay
+C:\Users\IEUser\AppData\Local\chia-blockchain\app-1.2.11265\resources\app.asar.unpacked\daemon,3229423,2,2000,0,10,30000

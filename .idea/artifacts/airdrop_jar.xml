@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="airdrop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/airdrop_jar</output-path>
+    <root id="archive" name="airdrop.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/jar/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="airdrop" />
+    </root>
+  </artifact>
+</component>
